@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Codename P3",
+"productVersion": "0.1",
+"dataUrl": "Milestone2WebBuild.data.unityweb",
+"wasmCodeUrl": "Milestone2WebBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "Milestone2WebBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.4f1"
+}
